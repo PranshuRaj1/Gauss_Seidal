@@ -38,6 +38,8 @@ This Python program helps you solve systems of linear equations using the Gauss-
 
 - **README Template**: Offers a template for creating beautiful README files for other projects.
 
+![image](https://github.com/PranshuRaj1/Gauss_Seidal/assets/139574633/7c5e3b7c-efa5-498f-a86c-f66e46afd71e)
+
 ## Getting Started
 
 ### Prerequisites
